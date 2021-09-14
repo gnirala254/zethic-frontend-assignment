@@ -1,0 +1,22 @@
+.app {
+  margin: 50px auto;
+  display: grid;
+  justify-content: center;
+}
+
+.form {
+  display: grid;
+}
+
+.textarea {
+  height: 200px;
+  width: 400px;
+  border: 1px solid gray;
+}
+
+.submit {
+  height: 40px;
+  width: 406px;
+  border: none;
+  background-color: aqua;
+}
